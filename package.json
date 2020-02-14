@@ -37,8 +37,7 @@
     "ember-truth-helpers": "^2.1.0",
     "normalize.css": "^8.0.1",
     "postcss-import": "^12.0.1",
-    "postcss-preset-env": "^6.6.0",
-    "sparkles-component": "github:rwjblue/sparkles-component"
+    "postcss-preset-env": "^6.6.0"
   },
   "devDependencies": {
     "@ember/optional-features": "^1.1.0",
