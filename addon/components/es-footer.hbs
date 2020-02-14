@@ -1,0 +1,11 @@
+<footer class="es-footer" ...attributes>
+  {{!--
+    Pass footer properties to support
+    <EsFooter @infoLinks={{someOtherLinks}} />
+  --}}
+  <EsFooter::Info @infoLinks={{this.infoLinks}} @socialLinks={{socialLinks}} />
+
+  <EsFooter::Statement @tagline={{tagline}} />
+
+  <EsFooter::Contributions @contributorLinks={{contributorLinks}} />
+</footer>
